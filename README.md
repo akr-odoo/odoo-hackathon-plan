@@ -40,12 +40,13 @@
 #### Schedule
 
 **Day 1 – Ideation & Filtering**
-- Kickoff + rules
+- Kickoff + rules - first stage
+- Whole day ideation
 - Team pitching (3 min / team)
-- Panel filters to top 15–20 teams
+- Panel filters to top X teams
 
 **Day 2 – Development**
-- Dedicated mentors per group (Odoo employees)
+- Dedicated mentors per group (Odoo employees)?
 - Office hours + 1 checkpoint review
 
 **Day 3 – Demo & Judging**
@@ -83,15 +84,17 @@
 - Bring your own laptop
 - Fast Wi-Fi
 - They use our screens
-- Odoo dbs?
+- Odoo SAAS dbs?
+- Meeting rooms for each team, meeting rooms for brainstorming sessions / booked. 
+
 
 ### Submission Rules
-- Enforce “Proof of Work” (Git commits, running demo)
+- Enforce “Proof of Work” (running demo)
 - Judges rubric: Feasibility, Innovation, UX, Impact
 
 ### Extras
 - Icebreaker games / team building ?
--  partner booths ?
+- partner booths ?
 
 ---
 
@@ -99,6 +102,7 @@
 
 | Role                | Responsible            |
 |---------------------|------------------------|
+| Brainstormings      | Experienced consultants to challange / refine ideas |
 | Event Lead          | marketing lead? someone to explain it     |
 | Odoo mentors        | 1 mentor per team      |
 | IT support          |  no idea|
@@ -117,3 +121,16 @@
 | T+1 wk     | PR release + follow-ups         |
 
 ---
+
+
+## questions:
+
+- Ideation -> do we provide premises, do we make it free for all, general theme? generate problems?
+- parition by service/industry? make it buisness focused?
+- Have Techincal PoCs? -> we can showcase studio heavily..
+- Sessions/smart classes throught out the firday day of workshops where students can attend
+- Max number of logistics we can take at one time? 
+ -- how many people can our office take
+ -- how many teams can take?
+ -- catering.
+
